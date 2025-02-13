@@ -1,0 +1,17 @@
+{
+  "name": "klin22.github.io",
+  "version": "1.0.0",
+  "description": "A comprehensive showcase of my coding projects, skills, and experiences. This portfolio also includes my contact information and other relevant details for potential employers or collaborators to reach out. Built with Javascript and HTML/CSS.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
