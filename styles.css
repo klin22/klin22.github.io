@@ -307,6 +307,8 @@
     height: auto;
     display: block;
     margin: 0 auto;
+    aspect-ratio: 16/9;
+    object-fit: cover;
   }
   .project__stack {
     display: flex;
